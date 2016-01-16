@@ -1,0 +1,23 @@
+{
+  "name": "bpteam/php-gen-regex",
+  "description": "php regex generator for html string and generate result from pattern",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgeny Pynykh",
+      "email": "bpteam22@gmail.com",
+      "homepage": "http://bpteam.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "icomefromthenet/reverse-regex": "master"
+  },
+  "autoload" : {
+    "psr-4": {
+      "bpteam\\GenRegEx\\": "src/"
+    }
+  }
+}
