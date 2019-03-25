@@ -1,5 +1,5 @@
 {
-  "name": "Dmitrytyt/php-gen-regex",
+  "name": "dmitrytyt/reverseregex",
   "description": "php regex generator for html string and generate result from pattern",
   "minimum-stability": "dev",
   "license": "MIT",
