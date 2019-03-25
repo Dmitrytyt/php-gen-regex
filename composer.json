@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "icomefromthenet/reverse-regex": "master"
+    "Dmitrytyt/ReverseRegex": "master"
   },
   "autoload" : {
     "psr-4": {
