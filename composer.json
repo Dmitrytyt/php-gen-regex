@@ -1,5 +1,5 @@
 {
-  "name": "bpteam/php-gen-regex",
+  "name": "Dmitrytyt/php-gen-regex",
   "description": "php regex generator for html string and generate result from pattern",
   "minimum-stability": "dev",
   "license": "MIT",
